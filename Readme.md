@@ -1,0 +1,1 @@
+This is sample landing page project as part of Odin Web Dev exercise
